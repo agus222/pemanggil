@@ -25,7 +25,7 @@ if(x=="1"){xxx="/2018/03/3-reasons-why-adsense-is-essential-for.html"}
 if(x=="2"){xxx="/2018/03/yoga-for-computer-users-side-angled.html"}
 if(x=="3"){xxx="/2018/03/yoga-for-business-people-lifetime-habit.html"}
 if(x=="4"){xxx="/2018/03/applications-in-cancer-treatment.html"}
-if(x=="5"){xxx="2018/03/simple-ways-to-live-healthy-lifestyle.html"}a_to_ve[i].href="https://kebaklinku.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="/2018/03/simple-ways-to-live-healthy-lifestyle.html"}a_to_ve[i].href="https://kebaklinku.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
